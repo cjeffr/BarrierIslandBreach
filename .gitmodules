@@ -1,0 +1,3 @@
+[submodule "pre_claw"]
+	path = pre_claw
+	url = ./pre_claw/
